@@ -7,8 +7,7 @@ $('#form1').blur(function(){
 });
 
 $('h1#random').on('click',function(){
-  //  window.location="https://en.wikipedia.org/wiki/Special:Random";   same page
-    window.open("https://en.wikipedia.org/wiki/Special:Random"); //opens in a new window   
+    window.open("https://en.wikipedia.org/wiki/Special:Random");   
 });
 
 $('#form1').keyup(function(e){
@@ -50,14 +49,5 @@ $('#form1').keyup(function(e){
                    });
       
      
-      
-      
-      
-            
-                  // for (var i = 0; i < apiResult.query.search.length; i++){
-                  // 
-
-
-   //  }
   }
 
